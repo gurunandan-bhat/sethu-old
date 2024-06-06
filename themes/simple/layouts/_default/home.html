@@ -13,15 +13,17 @@
               <div class="col-lg-8">
                 <div class="review pb-3 small">
                   <p class="quote">{{ .quote }}</p>
-                  <p class="author">{{ .author }}</p>
+                  <p class="author">&mdash; {{ .author }}</p>
                 </div>
               </div>
               <div class="col-lg-4">
                 <img
-                  src="/img/reviews/{{ .image }}"
+                  src="img/reviews/{{ .image }}"
                   alt="Review Image"
                   class="img-fluid w-100" />
-                <p class="small">Please change this image</p>
+                <p class="small pt-2 text-danger">
+                  Please change this image to something more appropriate
+                </p>
               </div>
             </div>
             <hr />
@@ -29,15 +31,17 @@
             <div class="row py-3">
               <div class="col-lg-4">
                 <img
-                  src="/img/reviews/{{ .image }}"
+                  src="img/reviews/{{ .image }}"
                   alt="Review Image"
                   class="img-fluid w-100" />
-                <p class="small">Please change this image</p>
+                <p class="small pt-2 text-danger">
+                  Please change this image to something more appropriate
+                </p>
               </div>
               <div class="col-lg-8">
                 <div class="review pb-3 small">
                   <p class="quote">{{ .quote }}</p>
-                  <p class="author">{{ .author }}</p>
+                  <p class="author">&mdash; {{ .author }}</p>
                 </div>
               </div>
             </div>
