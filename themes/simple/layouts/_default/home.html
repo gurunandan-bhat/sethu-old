@@ -1,0 +1,69 @@
+{{ define "main" }}
+  {{ partial "hero.html" }}
+  <div class="container pb-5">{{ partial "navigate.html" }}</div>
+  <div class="container pt-5">
+    <div class="row">
+      <div class="col-md-7">
+        <h1 class="display-5 text-body-emphasis lh-1 mb-5 impact-hdr">
+          What our Users say
+        </h1>
+        {{- range $i, $r := .Site.Data.reviews.reviews }}
+          {{- if math.ModBool $i 2 }}
+            <div class="row py-3">
+              <div class="col-lg-8">
+                <div class="review pb-3 small">
+                  <p class="quote">{{ .quote }}</p>
+                  <p class="author">{{ .author }}</p>
+                </div>
+              </div>
+              <div class="col-lg-4">
+                <img
+                  src="/img/reviews/{{ .image }}"
+                  alt="Review Image"
+                  class="img-fluid w-100" />
+                <p class="small">Please change this image</p>
+              </div>
+            </div>
+            <hr />
+          {{- else }}
+            <div class="row py-3">
+              <div class="col-lg-4">
+                <img
+                  src="/img/reviews/{{ .image }}"
+                  alt="Review Image"
+                  class="img-fluid w-100" />
+                <p class="small">Please change this image</p>
+              </div>
+              <div class="col-lg-8">
+                <div class="review pb-3 small">
+                  <p class="quote">{{ .quote }}</p>
+                  <p class="author">{{ .author }}</p>
+                </div>
+              </div>
+            </div>
+            <hr />
+          {{- end }}
+        {{- end }}
+      </div>
+      <div class="col-lg-4 offset-lg-1">
+        <h1 class="display-5 text-body-emphasis lh-1 mb-5 services-hdr">
+          Our Services
+        </h1>
+        {{ range .Site.Data.services.services }}
+          <div class="services">
+            <h5>{{ .title }}</h5>
+            <p class="small">Need an appropriate image here</p>
+            <p>
+              {{ .desc }}<br />
+              <a href="#">Read about our {{ .title }}</a>
+            </p>
+          </div>
+        {{ end }}
+        <h1 class="display-5 text-body-emphasis lh-1 mb-5 sponsors-hdr">
+          Our Sponsors
+        </h1>
+        <p>I need sponsor logos in addition to their names</p>
+      </div>
+    </div>
+  </div>
+{{ end }}

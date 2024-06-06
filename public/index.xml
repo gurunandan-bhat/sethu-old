@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2024 20:00:13 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 06 Jun 2024 20:00:13 +0530</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Team</title>
+      <link>http://localhost:1313/about/team/</link>
+      <pubDate>Thu, 06 Jun 2024 13:51:27 +0530</pubDate>
+      <guid>http://localhost:1313/about/team/</guid>
+      <description>Need images</description>
+    </item>
+    <item>
+      <title>Awards</title>
+      <link>http://localhost:1313/about/awards/</link>
+      <pubDate>Thu, 06 Jun 2024 13:51:21 +0530</pubDate>
+      <guid>http://localhost:1313/about/awards/</guid>
+      <description>Need 2 images</description>
+    </item>
+    <item>
+      <title>Our Story</title>
+      <link>http://localhost:1313/about/our-story/</link>
+      <pubDate>Thu, 06 Jun 2024 13:51:05 +0530</pubDate>
+      <guid>http://localhost:1313/about/our-story/</guid>
+      <description>Need 3 or 4 images</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/programs/research/</link>
+      <pubDate>Thu, 06 Jun 2024 13:50:34 +0530</pubDate>
+      <guid>http://localhost:1313/programs/research/</guid>
+      <description>Need 3 or 4 related images</description>
+    </item>
+    <item>
+      <title>Advocacy</title>
+      <link>http://localhost:1313/programs/advocacy/</link>
+      <pubDate>Thu, 06 Jun 2024 13:50:27 +0530</pubDate>
+      <guid>http://localhost:1313/programs/advocacy/</guid>
+      <description>Need 3 or 4 related images</description>
+    </item>
+    <item>
+      <title>Training</title>
+      <link>http://localhost:1313/services/training/</link>
+      <pubDate>Thu, 06 Jun 2024 13:45:13 +0530</pubDate>
+      <guid>http://localhost:1313/services/training/</guid>
+      <description>Need 3 or 4 related images</description>
+    </item>
+    <item>
+      <title>Therapy</title>
+      <link>http://localhost:1313/services/therapy/</link>
+      <pubDate>Thu, 06 Jun 2024 13:45:02 +0530</pubDate>
+      <guid>http://localhost:1313/services/therapy/</guid>
+      <description>Need 3 or 4 related images</description>
+    </item>
+    <item>
+      <title>Assessments</title>
+      <link>http://localhost:1313/services/assessments/</link>
+      <pubDate>Thu, 06 Jun 2024 13:44:50 +0530</pubDate>
+      <guid>http://localhost:1313/services/assessments/</guid>
+      <description>Need 3 or 4 related images</description>
+    </item>
+    <item>
+      <title>Family Programs</title>
+      <link>http://localhost:1313/services/family-programs/</link>
+      <pubDate>Thu, 06 Jun 2024 13:44:38 +0530</pubDate>
+      <guid>http://localhost:1313/services/family-programs/</guid>
+      <description>Need 3 or 4 related images</description>
+    </item>
+  </channel>
+</rss>

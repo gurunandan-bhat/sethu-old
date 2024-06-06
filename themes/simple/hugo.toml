@@ -1,0 +1,87 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Services'
+pageRef = '/services'
+weight = 20
+
+[[menus.main]]
+name = 'Family Programs'
+pageRef = '/services/family-programs'
+weight = 110
+parent = 'Services'
+
+[[menus.main]]
+name = 'Assessments'
+pageRef = '/services/assessments'
+weight = 120
+parent = 'Services'
+
+[[menus.main]]
+name = 'Therapy'
+pageRef = '/services/therapy'
+weight = 130
+parent = 'Services'
+
+[[menus.main]]
+name = 'Training'
+pageRef = '/services/training'
+weight = 140
+parent = 'Services'
+
+[[menus.main]]
+name = 'Programs'
+pageRef = '/programs'
+weight = 30
+
+[[menus.main]]
+name = 'Advocacy'
+pageRef = '/programs/advocacy'
+weight = 150
+parent = 'Programs'
+
+[[menus.main]]
+name = 'Research'
+pageRef = '/programs/research'
+weight = 160
+parent = 'Programs'
+
+[[menus.main]]
+name = 'About'
+pageRef = '/about'
+weight = 40
+
+[[menus.main]]
+name = 'Our Story'
+pageRef = '/about/our-story'
+weight = 240
+parent = 'About'
+
+[[menus.main]]
+name = 'Awards'
+pageRef = '/about/awards'
+weight = 250
+parent = 'About'
+
+[[menus.main]]
+name = 'Team'
+pageRef = '/about/team'
+weight = 260
+parent = 'About'
+
+[[menus.main]]
+name = 'Contact'
+pageRef = '/contact'
+weight = 50
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"

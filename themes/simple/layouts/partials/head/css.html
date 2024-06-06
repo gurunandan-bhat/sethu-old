@@ -1,0 +1,15 @@
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500;700&family=Lora:ital,wght@0,400;1,600&display=swap"
+  rel="stylesheet" />
+
+{{- $files := readDir "themes/simple/assets/css" }}
+{{- range $files }}
+  {{- $fRelPath := printf "css/%s" .Name }}
+  {{- if eq ".css" (path.Ext $fRelPath) }}
+    {{- with resources.Get $fRelPath }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" />
+    {{- end }}
+  {{- end }}
+{{- end }}

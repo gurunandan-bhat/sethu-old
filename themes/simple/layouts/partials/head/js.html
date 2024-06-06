@@ -1,0 +1,11 @@
+{{- $files := readDir "themes/simple/assets/js" }}
+{{- range $files }}
+  {{- $fRelPath := printf "js/%s" .Name }}
+  {{- if eq ".js" (path.Ext $fRelPath) }}
+    {{- with
+      resources.Get $fRelPath
+    }}
+      <script src="{{ .RelPermalink }}"></script>
+    {{- end }}
+  {{- end }}
+{{- end }}

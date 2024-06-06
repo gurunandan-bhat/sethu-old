@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on My New Hugo Site</title>
+    <link>http://localhost:1313/services/</link>
+    <description>Recent content in Services on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2024 13:45:13 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Training</title>
+      <link>http://localhost:1313/services/training/</link>
+      <pubDate>Thu, 06 Jun 2024 13:45:13 +0530</pubDate>
+      <guid>http://localhost:1313/services/training/</guid>
+      <description>Need 3 or 4 related images</description>
+    </item>
+    <item>
+      <title>Therapy</title>
+      <link>http://localhost:1313/services/therapy/</link>
+      <pubDate>Thu, 06 Jun 2024 13:45:02 +0530</pubDate>
+      <guid>http://localhost:1313/services/therapy/</guid>
+      <description>Need 3 or 4 related images</description>
+    </item>
+    <item>
+      <title>Assessments</title>
+      <link>http://localhost:1313/services/assessments/</link>
+      <pubDate>Thu, 06 Jun 2024 13:44:50 +0530</pubDate>
+      <guid>http://localhost:1313/services/assessments/</guid>
+      <description>Need 3 or 4 related images</description>
+    </item>
+    <item>
+      <title>Family Programs</title>
+      <link>http://localhost:1313/services/family-programs/</link>
+      <pubDate>Thu, 06 Jun 2024 13:44:38 +0530</pubDate>
+      <guid>http://localhost:1313/services/family-programs/</guid>
+      <description>Need 3 or 4 related images</description>
+    </item>
+  </channel>
+</rss>
