@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://codesutra.net/sethu'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Draft Sethu Website'
 
 [[menus.main]]
 name = 'Home'
