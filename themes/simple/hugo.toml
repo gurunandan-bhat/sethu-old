@@ -54,6 +54,11 @@ weight = 160
 parent = 'Programs'
 
 [[menus.main]]
+name = 'Diary'
+pageRef = '/diary'
+weight = 35
+
+[[menus.main]]
 name = 'About'
 pageRef = '/about'
 weight = 40

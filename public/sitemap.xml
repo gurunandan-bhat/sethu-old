@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/sethu/diary/</loc>
+    <lastmod>2024-06-07T11:29:15+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/sethu/contact/</loc>
     <lastmod>2024-06-06T20:00:13+05:30</lastmod>
   </url><url>
