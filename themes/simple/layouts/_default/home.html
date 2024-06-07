@@ -4,6 +4,7 @@
   <div class="container pt-5">
     <div class="row">
       <div class="col-md-7">
+        <div class="reviews"></div>
         <h1 class="display-5 text-body-emphasis lh-1 mb-5 impact-hdr">
           What our Users say
         </h1>
@@ -50,23 +51,27 @@
         {{- end }}
       </div>
       <div class="col-lg-4 offset-lg-1">
-        <h1 class="display-5 text-body-emphasis lh-1 mb-5 services-hdr">
-          Our Services
-        </h1>
-        {{ range .Site.Data.services.services }}
-          <div class="services">
-            <h5>{{ .title }}</h5>
-            <p class="small">Need an appropriate image here</p>
-            <p>
-              {{ .desc }}<br />
-              <a href="#">Read about our {{ .title }}</a>
-            </p>
-          </div>
-        {{ end }}
-        <h1 class="display-5 text-body-emphasis lh-1 mb-5 sponsors-hdr">
-          Our Sponsors
-        </h1>
-        <p>I need sponsor logos in addition to their names</p>
+        <div class="services pb-4">
+          <h1 class="display-5 text-body-emphasis lh-1 mb-5 services-hdr">
+            Our Services
+          </h1>
+          {{ range .Site.Data.services.services }}
+            <div class="services">
+              <h5>{{ .title }}</h5>
+              <p class="small">Need an appropriate image here</p>
+              <p>
+                {{ .desc }}<br />
+                <a href="#">Read about our {{ .title }}</a>
+              </p>
+            </div>
+          {{ end }}
+        </div>
+        <div class="sponsors">
+          <h1 class="display-5 text-body-emphasis lh-1 mb-5 sponsors-hdr">
+            Our Sponsors
+          </h1>
+          <p>I need sponsor logos in addition to their names</p>
+        </div>
       </div>
     </div>
   </div>
