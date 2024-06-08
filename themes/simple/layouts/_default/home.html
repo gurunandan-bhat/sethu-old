@@ -5,9 +5,7 @@
     <div class="row">
       <div class="col-md-7">
         <div class="reviews"></div>
-        <h1 class="text-body-emphasis lh-1 mb-5 impact-hdr">
-          What our Users say
-        </h1>
+        <h1 class="lh-1 mb-5 impact-hdr">What our Users say</h1>
         {{- range $i, $r := .Site.Data.reviews.reviews }}
           {{- if math.ModBool $i 2 }}
             <div class="row py-3">
@@ -51,13 +49,11 @@
         {{- end }}
       </div>
       <div class="col-lg-4 offset-lg-1">
-        <div class="services pb-4">
-          <h1 class="text-body-emphasis lh-1 mb-5 services-hdr">
-            Our Services
-          </h1>
+        <div class="services py-4">
+          <h1 class="lh-1 mb-5 services-hdr">Our Services</h1>
           {{ range .Site.Data.services.services }}
             <div class="service pb-3">
-              <h5>{{ .title }}</h5>
+              <h3>{{ .title }}</h3>
               <p class="small">Need an appropriate image here</p>
               <p>
                 {{ .desc }}<br />
@@ -67,9 +63,7 @@
           {{ end }}
         </div>
         <div class="sponsors">
-          <h1 class="text-body-emphasis lh-1 mb-5 sponsors-hdr">
-            Our Sponsors
-          </h1>
+          <h1 class="text-blh-1 mb-5 sponsors-hdr">Our Sponsors</h1>
           <p>I need sponsor logos in addition to their names</p>
         </div>
       </div>
