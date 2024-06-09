@@ -1,18 +1,18 @@
 {{ define "main" }}
   {{ partial "hero.html" }}
-  <div class="container pb-5">{{ partial "navigate.html" }}</div>
+  <div class="container pb-5 pt-3">{{ partial "navigate.html" }}</div>
   <div class="container pt-5">
     <div class="row">
       <div class="col-lg-7">
         <div class="reviews">
           <h1 class="lh-1 mb-4 impact-hdr">What our Users say</h1>
           {{- range $i, $r := .Site.Data.reviews.reviews }}
-            {{- if math.ModBool $i 2 }}
-              <div class="row py-3">
+            <div class="row">
+              {{- if math.ModBool $i 2 }}
                 <div class="col-lg-8">
-                  <div class="review pb-3 small">
+                  <div class="review pb-3">
                     <p class="quote">{{ .quote }}</p>
-                    <p class="author">&mdash; {{ .author }}</p>
+                    <p class="author small">&mdash; {{ .author }}</p>
                   </div>
                 </div>
                 <div class="col-lg-4">
@@ -24,10 +24,7 @@
                     Please change this image to something more appropriate
                   </p>
                 </div>
-              </div>
-              <hr />
-            {{- else }}
-              <div class="row py-3">
+              {{- else }}
                 <div class="col-lg-4">
                   <img
                     src="img/reviews/{{ .image }}"
@@ -38,14 +35,14 @@
                   </p>
                 </div>
                 <div class="col-lg-8">
-                  <div class="review pb-3 small">
+                  <div class="review pb-3">
                     <p class="quote">{{ .quote }}</p>
-                    <p class="author">&mdash; {{ .author }}</p>
+                    <p class="author small">&mdash; {{ .author }}</p>
                   </div>
                 </div>
-              </div>
+              {{- end }}
               <hr />
-            {{- end }}
+            </div>
           {{- end }}
         </div>
       </div>
