@@ -1,0 +1,15 @@
+<div class="col-lg-6 pt-6">
+  <h2>{{ .Get "title" }} &hellip;</h2>
+  <div>
+    {{ .Get "intro" | markdownify }}
+  </div>
+  <div>
+    <img
+      src="{{- .Site.BaseURL -}}/img/{{- $.Page.Section -}}/{{- .Get "image" -}}"
+      class="img-fluid w-100 py-5" />
+    <h4>Methodology</h4>
+    <div class="program-story small">
+      {{- .Inner | markdownify -}}
+    </div>
+  </div>
+</div>

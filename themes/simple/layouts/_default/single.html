@@ -1,15 +1,17 @@
 {{ define "main" }}
+  <div class="container-fluid">
+    <img
+      src="{{- .Site.BaseURL }}/img/{{- .Section }}/{{- .Params.hdrImage }}"
+      class="img-fluid w-100 mb-5" />
+  </div>
   <div class="container">
     <div class="row">
       <div class="col-lg-8 offset-lg-2">
-        <h1>{{ .Title }}</h1>
-
-        {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-        {{ $dateHuman := .Date | time.Format ":date_long" }}
-        <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-
-        {{ .Content }}
+        <h1 class="pt-5">{{ .Title }}</h1>
       </div>
+    </div>
+    <div class="row">
+      {{ .Content }}
     </div>
   </div>
 {{ end }}

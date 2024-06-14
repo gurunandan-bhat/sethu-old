@@ -8,83 +8,83 @@ pageRef = '/'
 weight = 10
 
 [[menus.main]]
-name = 'Services'
-pageRef = '/services'
+name = 'Programs'
+pageRef = '/Programs'
 weight = 20
 
 [[menus.main]]
-name = 'Family Programs'
-pageRef = '/services/family-programs'
-weight = 110
-parent = 'Services'
+name = 'Child Development Clinic'
+pageRef = '/programs/child-development-clinic'
+weight = 210
+parent = 'Programs'
 
 [[menus.main]]
-name = 'Assessments'
-pageRef = '/services/assessments'
-weight = 120
-parent = 'Services'
+name = 'Inclusive Education'
+pageRef = '/programs/inclusive-education'
+weight = 220
+parent = 'Programs'
 
 [[menus.main]]
-name = 'Therapy'
-pageRef = '/services/therapy'
-weight = 130
-parent = 'Services'
+name = 'Autism Intervention'
+pageRef = '/programs/autism-intervention'
+weight = 230
+parent = 'Programs'
 
 [[menus.main]]
-name = 'Training'
-pageRef = '/services/training'
-weight = 140
-parent = 'Services'
-
-[[menus.main]]
-name = 'Programs'
-pageRef = '/programs'
+name = 'Capacities'
+pageRef = '/capacities'
 weight = 30
 
 [[menus.main]]
-name = 'Advocacy'
-pageRef = '/programs/advocacy'
-weight = 150
-parent = 'Programs'
+name = 'Research'
+pageRef = '/capacities/research'
+weight = 330
+parent = 'Capacities'
 
 [[menus.main]]
-name = 'Research'
-pageRef = '/programs/research'
-weight = 160
-parent = 'Programs'
+name = 'Training'
+pageRef = '/capacities/training'
+weight = 310
+parent = 'Capacities'
+
+[[menus.main]]
+name = 'Advocacy'
+pageRef = '/capacities/advocacy'
+weight = 320
+parent = 'Capacities'
 
 [[menus.main]]
 name = 'Diary'
 pageRef = '/diary'
-weight = 35
+weight = 40
 
 [[menus.main]]
 name = 'About'
 pageRef = '/about'
-weight = 40
+weight = 50
 
 [[menus.main]]
 name = 'Our Story'
 pageRef = '/about/our-story'
-weight = 240
+weight = 510
 parent = 'About'
 
 [[menus.main]]
 name = 'Awards'
 pageRef = '/about/awards'
-weight = 250
+weight = 520
 parent = 'About'
 
 [[menus.main]]
 name = 'Team'
 pageRef = '/about/team'
-weight = 260
+weight = 530
 parent = 'About'
 
 [[menus.main]]
 name = 'Contact'
 pageRef = '/contact'
-weight = 50
+weight = 60
 
 [module]
   [module.hugoVersion]

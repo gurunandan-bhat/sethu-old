@@ -124,6 +124,24 @@ a:focus {
   --bs-gutter-x: 0;
 }
 
+.program-intro {
+  font-family: "Lora", serif;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1.75rem;
+  color: #6e6e6e;
+  margin-bottom: 5rem;
+}
+
+.program-story {
+  font-family: "Lora", serif;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1.35rem;
+  color: #6e6e6e;
+  margin: 2rem, 0;
+}
+
 #footer li {
   padding: 0 0 15px 0;
   margin-bottom: 15px;

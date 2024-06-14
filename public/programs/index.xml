@@ -6,21 +6,28 @@
     <description>Recent content in Programs on Draft Sethu Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jun 2024 13:50:34 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 13:45:02 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/sethu/programs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Research</title>
-      <link>http://localhost:1313/sethu/programs/research/</link>
-      <pubDate>Thu, 06 Jun 2024 13:50:34 +0530</pubDate>
-      <guid>http://localhost:1313/sethu/programs/research/</guid>
+      <title>Autism Intervention</title>
+      <link>http://localhost:1313/sethu/programs/autism-intervention/</link>
+      <pubDate>Thu, 06 Jun 2024 13:45:02 +0530</pubDate>
+      <guid>http://localhost:1313/sethu/programs/autism-intervention/</guid>
       <description>Need 3 or 4 related images</description>
     </item>
     <item>
-      <title>Advocacy</title>
-      <link>http://localhost:1313/sethu/programs/advocacy/</link>
-      <pubDate>Thu, 06 Jun 2024 13:50:27 +0530</pubDate>
-      <guid>http://localhost:1313/sethu/programs/advocacy/</guid>
+      <title>Inclusive Education</title>
+      <link>http://localhost:1313/sethu/programs/inclusive-education/</link>
+      <pubDate>Thu, 06 Jun 2024 13:44:50 +0530</pubDate>
+      <guid>http://localhost:1313/sethu/programs/inclusive-education/</guid>
       <description>Need 3 or 4 related images</description>
+    </item>
+    <item>
+      <title>Child Development Clinic and Mental Health Program</title>
+      <link>http://localhost:1313/sethu/programs/child-development-clinic/</link>
+      <pubDate>Thu, 06 Jun 2024 13:44:38 +0530</pubDate>
+      <guid>http://localhost:1313/sethu/programs/child-development-clinic/</guid>
+      <description>A single paragraph describing different aspects of this Program. make sure you add statistics (number of families who took advantage, when was it started, how many people from Sethu are involved etc. A brief history is also interesting if you think that is relevant. Most importantly, add statistics about your success rate). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
   </channel>
 </rss>
