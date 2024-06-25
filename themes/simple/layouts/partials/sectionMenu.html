@@ -1,0 +1,11 @@
+{{ if .IsPage }}
+  {{ $currentPage := . }}
+  {{ range $currentPage.CurrentSection.RegularPages }}
+    <div>
+      {{ if ne . $currentPage }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        <p>{{ .Summary }}</p>
+      {{ end }}
+    </div>
+  {{ end }}
+{{ end }}

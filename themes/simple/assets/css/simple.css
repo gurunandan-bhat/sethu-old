@@ -31,7 +31,7 @@ h6 {
 }
 
 .herobg {
-  background-image: url("img/sethu-hero.jpg");
+  background-image: url("/img/sethu-hero.jpg");
   background-color: transparent;
   background-position: center;
 }
@@ -44,22 +44,33 @@ h2.lead {
 
 span.impact-hdr {
   padding-left: 50px;
-  background-image: url("/sethu/img/quote-left.png");
+  background-image: url("/img/quote-left.png");
   background-repeat: no-repeat;
 }
 
 h1.services-hdr {
   padding-left: 50px;
-  background-image: url("/sethu/img/services.png");
+  background-image: url("/img/services.png");
   background-repeat: no-repeat;
 }
 
 h1.sponsors-hdr {
   padding-left: 50px;
-  background-image: url("/sethu/img/sponsors.png");
+  background-image: url("/img/sponsors.png");
   background-repeat: no-repeat;
 }
 
+h1.training-hdr {
+  padding-left: 60px;
+  background-image: url("/img/training.png");
+  background-repeat: no-repeat;
+}
+
+h6.calendar-hdr {
+  padding-left: 50px;
+  background-image: url("/img/calendar.png");
+  background-repeat: no-repeat;
+}
 p.lead {
   font-family: "Lora", serif;
   font-style: italic;
@@ -112,7 +123,7 @@ a:focus {
 }
 
 #footer {
-  background: #222 url("/sethu/img/foot_top.png") repeat;
+  background: #222 url("/img/foot_top.png") repeat;
   padding-top: 30px;
   margin-top: 60px;
   color: #666;
@@ -214,7 +225,7 @@ a:focus {
 }
 
 .footer_bottom {
-  background: #1e1e1e url(/sethu/img/foot_bottom.png) repeat;
+  background: #1e1e1e url(/img/foot_bottom.png) repeat;
   margin-top: 40px;
   padding: 20px 0 15px 0;
 }

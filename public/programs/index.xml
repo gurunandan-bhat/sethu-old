@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programs on Draft Sethu Website</title>
-    <link>http://localhost:1313/sethu/programs/</link>
+    <link>//localhost:1313/programs/</link>
     <description>Recent content in Programs on Draft Sethu Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Jun 2024 13:45:02 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/sethu/programs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/programs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Autism Intervention</title>
-      <link>http://localhost:1313/sethu/programs/autism-intervention/</link>
+      <link>//localhost:1313/programs/autism-intervention/</link>
       <pubDate>Thu, 06 Jun 2024 13:45:02 +0530</pubDate>
-      <guid>http://localhost:1313/sethu/programs/autism-intervention/</guid>
-      <description>Need 3 or 4 related images</description>
+      <guid>//localhost:1313/programs/autism-intervention/</guid>
+      <description>A single paragraph describing different aspects of this Program. make sure you add statistics (number of families who took advantage, when was it started, how many people from Sethu are involved etc. A brief history is also interesting if you think that is relevant. Most importantly, add statistics about your success rate). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     <item>
       <title>Inclusive Education</title>
-      <link>http://localhost:1313/sethu/programs/inclusive-education/</link>
+      <link>//localhost:1313/programs/inclusive-education/</link>
       <pubDate>Thu, 06 Jun 2024 13:44:50 +0530</pubDate>
-      <guid>http://localhost:1313/sethu/programs/inclusive-education/</guid>
-      <description>Need 3 or 4 related images</description>
+      <guid>//localhost:1313/programs/inclusive-education/</guid>
+      <description>A single paragraph describing different aspects of this Program. make sure you add statistics (number of families who took advantage, when was it started, how many people from Sethu are involved etc. A brief history is also interesting if you think that is relevant. Most importantly, add statistics about your success rate). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     <item>
       <title>Child Development Clinic and Mental Health Program</title>
-      <link>http://localhost:1313/sethu/programs/child-development-clinic/</link>
+      <link>//localhost:1313/programs/child-development-clinic/</link>
       <pubDate>Thu, 06 Jun 2024 13:44:38 +0530</pubDate>
-      <guid>http://localhost:1313/sethu/programs/child-development-clinic/</guid>
+      <guid>//localhost:1313/programs/child-development-clinic/</guid>
       <description>A single paragraph describing different aspects of this Program. make sure you add statistics (number of families who took advantage, when was it started, how many people from Sethu are involved etc. A brief history is also interesting if you think that is relevant. Most importantly, add statistics about your success rate). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
   </channel>

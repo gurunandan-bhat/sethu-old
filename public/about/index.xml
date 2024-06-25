@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Draft Sethu Website</title>
-    <link>http://localhost:1313/sethu/about/</link>
+    <link>//localhost:1313/about/</link>
     <description>Recent content in Abouts on Draft Sethu Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Jun 2024 13:51:27 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/sethu/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Team</title>
-      <link>http://localhost:1313/sethu/about/team/</link>
+      <link>//localhost:1313/about/team/</link>
       <pubDate>Thu, 06 Jun 2024 13:51:27 +0530</pubDate>
-      <guid>http://localhost:1313/sethu/about/team/</guid>
+      <guid>//localhost:1313/about/team/</guid>
       <description>Need images</description>
     </item>
     <item>
       <title>Awards</title>
-      <link>http://localhost:1313/sethu/about/awards/</link>
+      <link>//localhost:1313/about/awards/</link>
       <pubDate>Thu, 06 Jun 2024 13:51:21 +0530</pubDate>
-      <guid>http://localhost:1313/sethu/about/awards/</guid>
+      <guid>//localhost:1313/about/awards/</guid>
       <description>Need 2 images</description>
     </item>
     <item>
       <title>Our Story</title>
-      <link>http://localhost:1313/sethu/about/our-story/</link>
+      <link>//localhost:1313/about/our-story/</link>
       <pubDate>Thu, 06 Jun 2024 13:51:05 +0530</pubDate>
-      <guid>http://localhost:1313/sethu/about/our-story/</guid>
+      <guid>//localhost:1313/about/our-story/</guid>
       <description>Need 3 or 4 images</description>
     </item>
   </channel>

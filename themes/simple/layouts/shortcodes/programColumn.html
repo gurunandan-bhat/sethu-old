@@ -1,13 +1,17 @@
-<div class="col-lg-6 pt-6">
-  <h2>{{ .Get "title" }} &hellip;</h2>
-  <div>
+{{ $offset := "" }}
+{{ if eq .Params.side "right" }}
+  {{ $offset = "offset-lg-1 " }}
+{{ end }}
+<div class="{{- $offset -}} col-lg-5 pt-5">
+  <h3>{{ .Get "title" }} &hellip;</h3>
+  <div class="pt-3">
     {{ .Get "intro" | markdownify }}
   </div>
   <div>
     <img
-      src="{{- .Site.BaseURL -}}/img/{{- $.Page.Section -}}/{{- .Get "image" -}}"
+      src="/img/{{- $.Page.Section -}}/{{- .Get "image" -}}"
       class="img-fluid w-100 py-5" />
-    <h4>Methodology</h4>
+    <h5>Methodology</h5>
     <div class="program-story small">
       {{- .Inner | markdownify -}}
     </div>

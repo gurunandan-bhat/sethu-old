@@ -2,53 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/sethu/diary/</loc>
+    <loc>//localhost:1313/diary/</loc>
     <lastmod>2024-06-07T11:29:15+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sethu/contact/</loc>
+    <loc>//localhost:1313/contact/</loc>
     <lastmod>2024-06-06T20:00:13+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sethu/about/</loc>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2024-06-06T13:51:27+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sethu/about/team/</loc>
+    <loc>//localhost:1313/about/team/</loc>
     <lastmod>2024-06-06T13:51:27+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sethu/about/awards/</loc>
+    <loc>//localhost:1313/about/awards/</loc>
     <lastmod>2024-06-06T13:51:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sethu/about/our-story/</loc>
+    <loc>//localhost:1313/about/our-story/</loc>
     <lastmod>2024-06-06T13:51:05+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sethu/capacities/</loc>
+    <loc>//localhost:1313/capacities/</loc>
     <lastmod>2024-06-06T13:50:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sethu/capacities/research/</loc>
+    <loc>//localhost:1313/capacities/research/</loc>
     <lastmod>2024-06-06T13:50:34+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sethu/capacities/advocacy/</loc>
+    <loc>//localhost:1313/capacities/advocacy/</loc>
     <lastmod>2024-06-06T13:50:27+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sethu/capacities/training/</loc>
+    <loc>//localhost:1313/capacities/training/</loc>
     <lastmod>2024-06-06T13:45:13+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sethu/programs/autism-intervention/</loc>
+    <loc>//localhost:1313/programs/autism-intervention/</loc>
     <lastmod>2024-06-06T13:45:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sethu/programs/</loc>
+    <loc>//localhost:1313/programs/</loc>
     <lastmod>2024-06-06T13:45:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sethu/programs/inclusive-education/</loc>
+    <loc>//localhost:1313/programs/inclusive-education/</loc>
     <lastmod>2024-06-06T13:44:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sethu/programs/child-development-clinic/</loc>
+    <loc>//localhost:1313/programs/child-development-clinic/</loc>
     <lastmod>2024-06-06T13:44:38+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sethu/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sethu/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/sethu/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
