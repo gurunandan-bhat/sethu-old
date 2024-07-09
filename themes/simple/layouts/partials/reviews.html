@@ -39,7 +39,7 @@
             {{- range seq 0 (sub $reviewBatch 1) }}
               {{- $index := add $outerIndex . }}
               {{- $review := index $reviewList $index }}
-              <div class="col-md-4">
+              <div class="col-lg-4">
                 <div class="px-3">
                   <img
                     src="/img/reviews/{{- $review.image }}"

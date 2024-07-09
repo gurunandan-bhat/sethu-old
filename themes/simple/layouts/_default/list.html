@@ -1,12 +1,41 @@
 {{ define "main" }}
+  <div class="container-fluid">
+    <img
+      src="{{- .Site.BaseURL }}/img/{{- .Section }}/{{- .Params.hdrImage }}"
+      class="img-fluid w-100 mb-5" />
+  </div>
   <div class="container">
     <div class="row">
       <div class="col-lg-8 offset-lg-2">
         <h1>{{ .Title }}</h1>
-        {{ .Content }}
-        {{ range .Pages }}
-          <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-          {{ .Summary }}
+        <div class="py-5">
+          {{ .Content }}
+        </div>
+        <hr class="py-5" />
+      </div>
+    </div>
+    <div class="row">
+      {{ range .Pages.ByWeight }}
+        <div class="col-lg-5">
+          <h2 class="pb-4">{{ .LinkTitle }}</h2>
+          {{ .Content }}
+        </div>
+      {{ end }}
+      <div class="col-lg-2">
+        {{ if and (ne .Section "donate") (ne .Section "contact") }}
+          {{ $currentpage := . }}
+          <div class="border px-3 py-3">
+            {{ with index (where .Site.Sections "Section" .Section) 0 }}
+              <h4>{{ title .Section }}</h4>
+              {{ range .Pages.ByWeight }}
+                <h5><a href="{{ .RelPermalink }}">{{ .Title }}</a></h5>
+                <p class="small">
+                  {{ .Summary }}
+                  <a href="{{ .RelPermalink }}">More &hellip;</a>
+                </p>
+              {{ end }}
+            {{ end }}
+          </div>
         {{ end }}
       </div>
     </div>

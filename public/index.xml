@@ -6,21 +6,112 @@
     <description>Recent content in Home on Draft Sethu Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jun 2024 11:29:15 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 09:30:48 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Diary</title>
-      <link>//localhost:1313/diary/</link>
-      <pubDate>Fri, 07 Jun 2024 11:29:15 +0530</pubDate>
-      <guid>//localhost:1313/diary/</guid>
+      <title>Volunteers</title>
+      <link>//localhost:1313/about/careers/volunteers/</link>
+      <pubDate>Tue, 09 Jul 2024 09:30:39 +0530</pubDate>
+      <guid>//localhost:1313/about/careers/volunteers/</guid>
+      <description>We’ve been privileged to have people at all ages and stages volunteer their time and talents, from art and architecture to guidance on our HR policies.</description>
+    </item>
+    <item>
+      <title>What We Do</title>
+      <link>//localhost:1313/programs/gnyandeep/what-we-do/</link>
+      <pubDate>Sun, 07 Jul 2024 11:40:00 +0530</pubDate>
+      <guid>//localhost:1313/programs/gnyandeep/what-we-do/</guid>
+      <description>Sethu&amp;rsquo;s mission is to be a bridge between children and their communities at large. Schools and teachers form an important part of this caring circle.</description>
+    </item>
+    <item>
+      <title>Choose what You Donate For</title>
+      <link>//localhost:1313/donate/channels/</link>
+      <pubDate>Sun, 07 Jul 2024 11:19:19 +0530</pubDate>
+      <guid>//localhost:1313/donate/channels/</guid>
+      <description>Build our Bridge Write something about this program - what do you do etc. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+    <item>
+      <title>Our Story</title>
+      <link>//localhost:1313/about/our-story/</link>
+      <pubDate>Thu, 06 Jun 2024 13:51:05 +0530</pubDate>
+      <guid>//localhost:1313/about/our-story/</guid>
+      <description>Founded in 2005 by Dr Nandita de Souza, a developmental paediatrician, and five other champions for inclusion, Sethu was born of the conviction that all children, particularly the most vulnerable, must receive a fair chance to realise their potential.</description>
+    </item>
+    <item>
+      <title>Assessing Mental Health</title>
+      <link>//localhost:1313/programs/child-development-clinic/assess/</link>
+      <pubDate>Thu, 06 Jun 2024 13:44:38 +0530</pubDate>
+      <guid>//localhost:1313/programs/child-development-clinic/assess/</guid>
+      <description>This is where you describe how you assess what therapy to apply. Describe your tools as well as clear quantitative logic that you use.</description>
+    </item>
+    <item>
+      <title>How we Assess Autism</title>
+      <link>//localhost:1313/programs/autism-intervention/assess/</link>
+      <pubDate>Thu, 06 Jun 2024 13:44:38 +0530</pubDate>
+      <guid>//localhost:1313/programs/autism-intervention/assess/</guid>
+      <description>This is where you describe how you assess what therapy to apply. Describe your tools as well as clear quantitative logic that you use.</description>
+    </item>
+    <item>
+      <title>Promoting Inclusive Education</title>
+      <link>//localhost:1313/programs/inclusive-education/assess/</link>
+      <pubDate>Thu, 06 Jun 2024 13:44:38 +0530</pubDate>
+      <guid>//localhost:1313/programs/inclusive-education/assess/</guid>
+      <description>This is where you describe how you assess what therapy to apply. Describe your tools as well as clear quantitative logic that you use.</description>
+    </item>
+    <item>
+      <title>Interns</title>
+      <link>//localhost:1313/about/careers/interns/</link>
+      <pubDate>Tue, 09 Jul 2024 09:30:48 +0530</pubDate>
+      <guid>//localhost:1313/about/careers/interns/</guid>
+      <description>We’re pleased to welcome interns from a wide range of disciplines and offer a friendly, supportive environment that values learning and mentorship.</description>
+    </item>
+    <item>
+      <title>Policies</title>
+      <link>//localhost:1313/about/policies/</link>
+      <pubDate>Mon, 08 Jul 2024 21:45:50 +0530</pubDate>
+      <guid>//localhost:1313/about/policies/</guid>
       <description></description>
     </item>
     <item>
-      <title>Contact</title>
-      <link>//localhost:1313/contact/</link>
-      <pubDate>Thu, 06 Jun 2024 20:00:13 +0530</pubDate>
-      <guid>//localhost:1313/contact/</guid>
-      <description></description>
+      <title>Responses</title>
+      <link>//localhost:1313/programs/gnyandeep/responses/</link>
+      <pubDate>Sun, 07 Jul 2024 11:40:09 +0530</pubDate>
+      <guid>//localhost:1313/programs/gnyandeep/responses/</guid>
+      <description>The training phase of the project was followed by on-site visits to each of the balwadis. We traversed the length and breadth of Goa to observe our trained teachers apply their new knowledge and continue to refine this model.</description>
+    </item>
+    <item>
+      <title>Donating from Outside India?</title>
+      <link>//localhost:1313/donate/reviews/</link>
+      <pubDate>Sun, 07 Jul 2024 11:19:19 +0530</pubDate>
+      <guid>//localhost:1313/donate/reviews/</guid>
+      <description>Overseas Donors can write to reachus@sethu.in for details on how to make a donation. If you hold a passport from Canada or the United States see the following on making a donation and availing tax benefits</description>
+    </item>
+    <item>
+      <title>Autism Therapies</title>
+      <link>//localhost:1313/programs/autism-intervention/therapy/</link>
+      <pubDate>Thu, 06 Jun 2024 13:44:38 +0530</pubDate>
+      <guid>//localhost:1313/programs/autism-intervention/therapy/</guid>
+      <description>Explain that once assessment is complete - you will decide what therapy to apply. Explain what therapies you specialize in and as well as what you specialize in.</description>
+    </item>
+    <item>
+      <title>Child Development Therapies</title>
+      <link>//localhost:1313/programs/child-development-clinic/therapy/</link>
+      <pubDate>Thu, 06 Jun 2024 13:44:38 +0530</pubDate>
+      <guid>//localhost:1313/programs/child-development-clinic/therapy/</guid>
+      <description>Explain that once assessment is complete - you will decide what therapy to apply. Explain what therapies you specialize in and as well as what you specialize in.</description>
+    </item>
+    <item>
+      <title>Inclusive Education Therapies</title>
+      <link>//localhost:1313/programs/inclusive-education/therapy/</link>
+      <pubDate>Thu, 06 Jun 2024 13:44:38 +0530</pubDate>
+      <guid>//localhost:1313/programs/inclusive-education/therapy/</guid>
+      <description>Explain that once assessment is complete - you will decide what therapy to apply. Explain what therapies you specialize in and as well as what you specialize in.</description>
+    </item>
+    <item>
+      <title>Awards</title>
+      <link>//localhost:1313/about/awards/</link>
+      <pubDate>Thu, 06 Jun 2024 13:51:21 +0530</pubDate>
+      <guid>//localhost:1313/about/awards/</guid>
+      <description>The pride and joy we get from our work is its own reward!&#xA;2019 ‘Best NGO Award’ by the Directorate of Social Welfare, Government of Goa 2019 Indian Association of Paediatrics (IAP) Fellowship renewed for 2019—2021 2018 Dr Nandita De Souza named Goa Today’s Person of the Year, 2019</description>
     </item>
     <item>
       <title>Team</title>
@@ -30,60 +121,32 @@
       <description>Need images</description>
     </item>
     <item>
-      <title>Awards</title>
-      <link>//localhost:1313/about/awards/</link>
-      <pubDate>Thu, 06 Jun 2024 13:51:21 +0530</pubDate>
-      <guid>//localhost:1313/about/awards/</guid>
-      <description>Need 2 images</description>
+      <title>Trustees</title>
+      <link>//localhost:1313/about/trustees/</link>
+      <pubDate>Mon, 08 Jul 2024 21:45:58 +0530</pubDate>
+      <guid>//localhost:1313/about/trustees/</guid>
+      <description></description>
     </item>
     <item>
-      <title>Our Story</title>
-      <link>//localhost:1313/about/our-story/</link>
-      <pubDate>Thu, 06 Jun 2024 13:51:05 +0530</pubDate>
-      <guid>//localhost:1313/about/our-story/</guid>
-      <description>Need 3 or 4 images</description>
+      <title>Diary</title>
+      <link>//localhost:1313/diary/</link>
+      <pubDate>Fri, 07 Jun 2024 11:29:15 +0530</pubDate>
+      <guid>//localhost:1313/diary/</guid>
+      <description></description>
     </item>
     <item>
       <title>Research</title>
-      <link>//localhost:1313/capacities/research/</link>
+      <link>//localhost:1313/resources/research/</link>
       <pubDate>Thu, 06 Jun 2024 13:50:34 +0530</pubDate>
-      <guid>//localhost:1313/capacities/research/</guid>
-      <description>Need 3 or 4 related images</description>
+      <guid>//localhost:1313/resources/research/</guid>
+      <description>Our research efforts centre on promoting inclusion. Our papers have been published in reputed peer-reviewed journals, such as (list journals here), and presented at national and international conferences (list these events).</description>
     </item>
     <item>
       <title>Advocacy</title>
-      <link>//localhost:1313/capacities/advocacy/</link>
+      <link>//localhost:1313/resources/advocacy/</link>
       <pubDate>Thu, 06 Jun 2024 13:50:27 +0530</pubDate>
-      <guid>//localhost:1313/capacities/advocacy/</guid>
-      <description>Need 3 or 4 related images</description>
-    </item>
-    <item>
-      <title>Training</title>
-      <link>//localhost:1313/capacities/training/</link>
-      <pubDate>Thu, 06 Jun 2024 13:45:13 +0530</pubDate>
-      <guid>//localhost:1313/capacities/training/</guid>
-      <description>Need 3 or 4 related images</description>
-    </item>
-    <item>
-      <title>Autism Intervention</title>
-      <link>//localhost:1313/programs/autism-intervention/</link>
-      <pubDate>Thu, 06 Jun 2024 13:45:02 +0530</pubDate>
-      <guid>//localhost:1313/programs/autism-intervention/</guid>
-      <description>A single paragraph describing different aspects of this Program. make sure you add statistics (number of families who took advantage, when was it started, how many people from Sethu are involved etc. A brief history is also interesting if you think that is relevant. Most importantly, add statistics about your success rate). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    <item>
-      <title>Inclusive Education</title>
-      <link>//localhost:1313/programs/inclusive-education/</link>
-      <pubDate>Thu, 06 Jun 2024 13:44:50 +0530</pubDate>
-      <guid>//localhost:1313/programs/inclusive-education/</guid>
-      <description>A single paragraph describing different aspects of this Program. make sure you add statistics (number of families who took advantage, when was it started, how many people from Sethu are involved etc. A brief history is also interesting if you think that is relevant. Most importantly, add statistics about your success rate). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    <item>
-      <title>Child Development Clinic and Mental Health Program</title>
-      <link>//localhost:1313/programs/child-development-clinic/</link>
-      <pubDate>Thu, 06 Jun 2024 13:44:38 +0530</pubDate>
-      <guid>//localhost:1313/programs/child-development-clinic/</guid>
-      <description>A single paragraph describing different aspects of this Program. make sure you add statistics (number of families who took advantage, when was it started, how many people from Sethu are involved etc. A brief history is also interesting if you think that is relevant. Most importantly, add statistics about your success rate). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>//localhost:1313/resources/advocacy/</guid>
+      <description>We advocate for the effective implementation of neurodiversity-affirming policies by fostering close relationships with schools, community groups and government agencies.</description>
     </item>
   </channel>
 </rss>

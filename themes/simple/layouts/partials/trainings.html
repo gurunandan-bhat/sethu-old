@@ -1,0 +1,39 @@
+{{ $showItems := 2 }}
+{{ $colSize := 3 }}
+{{ $upcoming := site.Data.upcoming.upcoming }}
+<div class="row">
+  <div class="col-lg">
+    <h1 class="training-hdr pb-4">Upcoming Training</h1>
+    <div class="row">
+      {{ range seq 0 (sub $showItems 1) }}
+        {{ with index $upcoming . }}
+          <div class="col-lg">
+            <h4>{{- .title }}</h4>
+            <h6 class="calendar-hdr pb-2">
+              {{- .type }}<br />{{ .startDate -}} &ndash;
+              {{- .endDate }}
+            </h6>
+            <p>{{- .desc }}<br /><a href="#">View details and apply</a></p>
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+  <div class="col-lg">
+    <h1 class="graduate-hdr pb-4">Recently Completed</h1>
+    <div class="row">
+      {{ range seq 0 (sub $showItems 1) }}
+        {{ with index $upcoming . }}
+          <div class="col-lg">
+            <h4>{{- .title }}</h4>
+            <h6 class="calendar-hdr pb-2">
+              {{- .type }}<br />{{ .startDate -}} &ndash;
+              {{- .endDate }}
+            </h6>
+            <p>{{- .desc }}<br /><a href="#">Report</a></p>
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</div>

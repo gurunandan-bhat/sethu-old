@@ -31,27 +31,27 @@ weight = 230
 parent = 'Programs'
 
 [[menus.main]]
-name = 'Capacities'
-pageRef = '/capacities'
+name = 'Gnyandeep'
+pageRef = '/programs/gnyandeep'
+weight = 240
+parent = 'Programs'
+
+[[menus.main]]
+name = 'Resources'
+pageRef = '/resources'
 weight = 30
 
 [[menus.main]]
 name = 'Research'
-pageRef = '/capacities/research'
+pageRef = '/resources/research'
 weight = 330
-parent = 'Capacities'
-
-[[menus.main]]
-name = 'Training'
-pageRef = '/capacities/training'
-weight = 310
-parent = 'Capacities'
+parent = 'Resources'
 
 [[menus.main]]
 name = 'Advocacy'
-pageRef = '/capacities/advocacy'
+pageRef = '/resources/advocacy'
 weight = 320
-parent = 'Capacities'
+parent = 'Resources'
 
 [[menus.main]]
 name = 'Diary'
@@ -70,15 +70,33 @@ weight = 510
 parent = 'About'
 
 [[menus.main]]
+name = 'Policies'
+pageRef = '/about/policies'
+weight = 520
+parent = 'About'
+
+[[menus.main]]
 name = 'Awards'
 pageRef = '/about/awards'
-weight = 520
+weight = 530
 parent = 'About'
 
 [[menus.main]]
 name = 'Team'
 pageRef = '/about/team'
-weight = 530
+weight = 540
+parent = 'About'
+
+[[menus.main]]
+name = 'Trustees'
+pageRef = '/about/trustees'
+weight = 550
+parent = 'About'
+
+[[menus.main]]
+name = 'Careers'
+pageRef = '/about/careers'
+weight = 560
 parent = 'About'
 
 [[menus.main]]

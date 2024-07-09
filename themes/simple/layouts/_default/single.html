@@ -6,12 +6,13 @@
   </div>
   <div class="container text-align-center">
     <div class="row">
-      <div class="col-lg-8 offset-lg-2">
-        <h1 class="pt-5">{{ .Title }}</h1>
+      <div class="col-lg-7 offset-lg-2">
+        <h1 class="py-5">{{ .Title }}</h1>
+        {{ .Content }}
       </div>
-    </div>
-    <div class="row">
-      {{ .Content }}
+      <div class="col-lg-2 offset-lg-1 py-5">
+        {{ partial "sectionMenu.html" . }}
+      </div>
     </div>
   </div>
 {{ end }}
