@@ -2,3 +2,4 @@ languageCode = 'en-us'
 title = 'Draft Sethu Website'
 theme = 'simple'
 summaryLength = 20
+enableRobotsTXT = true
