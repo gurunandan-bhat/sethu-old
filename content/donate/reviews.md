@@ -5,15 +5,15 @@ draft = false
 weight = 20
 +++
 
-Overseas Donors can write to reachus@sethu.in for details on how to make a donation. If you hold a passport from Canada or the United States see the following on making a donation and availing tax benefits
+Overseas Donors can write to <reachus@sethu.in> for details on how to make a donation. If you hold a passport from Canada or the United States see the following on making a donation and availing tax benefits
 
 ##### For Canadian Passport Holders
 
-Donors in Canada can also donate to the Sethu centre project via Maharashtra Seva Samiti Organisation (MSSO), registered in Canada and recognised by the Canadian Government. MSSO will forward the full amount of these donations to Sethu without any administrative charges. Details are available on the MSSO website http://www.mssoonline.org/donate/
+Donors in Canada can also donate to the Sethu centre project via Maharashtra Seva Samiti Organisation (MSSO), registered in Canada and recognised by the Canadian Government. MSSO will forward the full amount of these donations to Sethu without any administrative charges. Details are available on the [MSSO website](https://www.mssoonline.org/donate/)
 
 ##### For United States Passport Holders
 
-To avail of tax benefits, donors in the USA can donate to Sethu Centre via the Arpan Foundation (www.arpanfoundation.org), a 501c3 organisation registered in the US. The Arpan Foundation will forward the full amount of these donations to Sethu without any administrative charges. Write the cheque in the name of Arpan Foundation and mention 'Sethu' in the instructions. Mail the cheque to 556, N Diamond Bar Blvd, Ste 201-B, Diamond Bar, CA 91765. Send an email to reachus@sethu.in informing Sethu about your donation, so that it can be tracked and correctly accounted for.
+To avail of tax benefits, donors in the USA can donate to Sethu Centre via the [Arpan Foundation](https://www.arpanfoundation.org), a 501c3 organisation registered in the US. The Arpan Foundation will forward the full amount of these donations to Sethu without any administrative charges. Write the cheque in the name of Arpan Foundation and mention 'Sethu' in the instructions. Mail the cheque to 556, N Diamond Bar Blvd, Ste 201-B, Diamond Bar, CA 91765. Send an email to <reachus@sethu.in> informing Sethu about your donation, so that it can be tracked and correctly accounted for.
 
 {{< rule >}}
 
