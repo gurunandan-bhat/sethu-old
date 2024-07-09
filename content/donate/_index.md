@@ -15,3 +15,5 @@ Contribution (Regulation) Act, 2010. Sethu is registered with
 - The Dept. of Social Welfare, Govt, of Goa
 - NITI Aayog
 - National Trust
+
+For holders of passports issued by countries _other than India_ see the section "Donating from Outside India" below.
