@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/about/careers/volunteers/</loc>
+    <loc>//localhost:1313/careers/volunteers/</loc>
     <lastmod>2024-07-09T09:30:39+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/programs/gnyandeep/what-we-do/</loc>
@@ -26,7 +26,7 @@
     <loc>//localhost:1313/programs/inclusive-education/assess/</loc>
     <lastmod>2024-06-06T13:44:38+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/careers/interns/</loc>
+    <loc>//localhost:1313/careers/interns/</loc>
     <lastmod>2024-07-09T09:30:48+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/about/policies/</loc>
@@ -65,11 +65,11 @@
     <loc>//localhost:1313/about/trustees/</loc>
     <lastmod>2024-07-08T21:45:58+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
-    <lastmod>2024-07-09T09:30:48+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/about/careers/</loc>
+    <loc>//localhost:1313/careers/</loc>
     <lastmod>2024-07-09T09:19:53+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
+    <lastmod>2024-07-08T21:45:58+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/programs/</loc>
     <lastmod>2024-07-07T11:40:09+05:30</lastmod>

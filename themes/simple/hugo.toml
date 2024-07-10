@@ -59,50 +59,49 @@ pageRef = '/diary'
 weight = 40
 
 [[menus.main]]
+name = 'Careers'
+pageRef = '/careers'
+weight = 50
+
+[[menus.main]]
 name = 'About'
 pageRef = '/about'
-weight = 50
+weight = 60
 
 [[menus.main]]
 name = 'Our Story'
 pageRef = '/about/our-story'
-weight = 510
+weight = 610
 parent = 'About'
 
 [[menus.main]]
 name = 'Policies'
 pageRef = '/about/policies'
-weight = 520
+weight = 620
 parent = 'About'
 
 [[menus.main]]
 name = 'Awards'
 pageRef = '/about/awards'
-weight = 530
+weight = 630
 parent = 'About'
 
 [[menus.main]]
 name = 'Team'
 pageRef = '/about/team'
-weight = 540
+weight = 640
 parent = 'About'
 
 [[menus.main]]
 name = 'Trustees'
 pageRef = '/about/trustees'
-weight = 550
-parent = 'About'
-
-[[menus.main]]
-name = 'Careers'
-pageRef = '/about/careers'
-weight = 560
+weight = 650
 parent = 'About'
 
 [[menus.main]]
 name = 'Contact'
 pageRef = '/contact'
-weight = 60
+weight = 70
 
 [module]
   [module.hugoVersion]

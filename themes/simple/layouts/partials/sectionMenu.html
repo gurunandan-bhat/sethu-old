@@ -1,11 +1,11 @@
 {{ if .IsPage }}
   {{ $currentPage := . }}
   <div class="border px-3 py-3">
-    <h2>{{ title .Section }}</h2>
+    <h4>{{ title .Section }}</h4>
     {{ range .CurrentSection.RegularPages.ByWeight }}
       <div>
         {{ if ne . $currentPage }}
-          <h5><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h5>
+          <h6><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h6>
           <p class="small">{{ .Summary }}</p>
         {{ end }}
       </div>

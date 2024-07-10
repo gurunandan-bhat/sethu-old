@@ -10,9 +10,9 @@
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Volunteers</title>
-      <link>//localhost:1313/about/careers/volunteers/</link>
+      <link>//localhost:1313/careers/volunteers/</link>
       <pubDate>Tue, 09 Jul 2024 09:30:39 +0530</pubDate>
-      <guid>//localhost:1313/about/careers/volunteers/</guid>
+      <guid>//localhost:1313/careers/volunteers/</guid>
       <description>We’ve been privileged to have people at all ages and stages volunteer their time and talents, from art and architecture to guidance on our HR policies.</description>
     </item>
     <item>
@@ -59,9 +59,9 @@
     </item>
     <item>
       <title>Interns</title>
-      <link>//localhost:1313/about/careers/interns/</link>
+      <link>//localhost:1313/careers/interns/</link>
       <pubDate>Tue, 09 Jul 2024 09:30:48 +0530</pubDate>
-      <guid>//localhost:1313/about/careers/interns/</guid>
+      <guid>//localhost:1313/careers/interns/</guid>
       <description>We’re pleased to welcome interns from a wide range of disciplines and offer a friendly, supportive environment that values learning and mentorship.</description>
     </item>
     <item>

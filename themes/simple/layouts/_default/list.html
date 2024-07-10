@@ -28,7 +28,7 @@
             {{ with index (where .Site.Sections "Section" .Section) 0 }}
               <h4>{{ title .Section }}</h4>
               {{ range .Pages.ByWeight }}
-                <h5><a href="{{ .RelPermalink }}">{{ .Title }}</a></h5>
+                <h6><a href="{{ .RelPermalink }}">{{ .Title }}</a></h6>
                 <p class="small">
                   {{ .Summary }}
                   <a href="{{ .RelPermalink }}">More &hellip;</a>
