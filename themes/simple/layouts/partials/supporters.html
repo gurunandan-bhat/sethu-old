@@ -1,0 +1,15 @@
+<div class="row pt-3">
+{{ range $i, $s := site.Data.supporters.supporters }}
+    <div class="col-lg-2">
+        <div class="supporter h-100">
+            <p class="text-center h-80"><img src="/img/supporter-logos/{{- $s.logo }}" /></p>
+            <h6 class="text-center">{{ $s.name }}</h6>
+        </div>
+    </div>
+    {{ if eq 0 (mod (add $i 1) 6) }}
+        </div>
+        <hr />
+        <div class="row">
+    {{ end }}
+{{ end }}
+</div>
