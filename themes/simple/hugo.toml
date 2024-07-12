@@ -42,6 +42,12 @@ pageRef = '/resources'
 weight = 30
 
 [[menus.main]]
+name = 'Training'
+pageRef = '/resources/training'
+weight = 320
+parent = 'Resources'
+
+[[menus.main]]
 name = 'Research'
 pageRef = '/resources/research'
 weight = 330
@@ -50,7 +56,7 @@ parent = 'Resources'
 [[menus.main]]
 name = 'Advocacy'
 pageRef = '/resources/advocacy'
-weight = 320
+weight = 340
 parent = 'Resources'
 
 [[menus.main]]
