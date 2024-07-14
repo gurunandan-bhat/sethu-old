@@ -47,7 +47,7 @@ h2.lead {
   background-repeat: no-repeat;
   height: 6rem;
   margin-bottom: 1.4rem;
-  padding-right: 0 4rem;
+  padding: 0 0.4rem;
   border-bottom: 1px solid #ffcf08;
 }
 
