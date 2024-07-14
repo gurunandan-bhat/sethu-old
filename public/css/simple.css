@@ -42,6 +42,35 @@ h2.lead {
   font-size: 25px;
 }
 
+.hdr-navigate {
+  background-position: right;
+  background-repeat: no-repeat;
+  height: 6rem;
+  margin-bottom: 1.4rem;
+  padding-right: 0 4rem;
+  border-bottom: 1px solid #ffcf08;
+}
+
+.hdr-work-with-us {
+  background-image: url("/img/navigate/icon-work-with-us.svg");
+}
+
+.hdr-challenge-us {
+  background-image: url("/img/navigate/icon-challenge-us.svg");
+}
+
+.hdr-strengthen-us {
+  background-image: url("/img/navigate/icon-strengthen-us.svg");
+}
+
+.hdr-upcoming-training {
+  background-image: url("/img/training/icon-upcoming-training.svg");
+}
+
+.hdr-completed-training {
+  background-image: url("/img/training/icon-completed-training.svg");
+}
+
 span.impact-hdr {
   padding-left: 50px;
   background-image: url("/img/quote-left.png");

@@ -6,7 +6,7 @@
     <description>Recent content in Home on Draft Sethu Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jul 2024 09:30:48 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 17:15:11 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Volunteers</title>
@@ -126,6 +126,13 @@
       <pubDate>Mon, 08 Jul 2024 21:45:58 +0530</pubDate>
       <guid>//localhost:1313/about/trustees/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Training</title>
+      <link>//localhost:1313/resources/training/</link>
+      <pubDate>Fri, 12 Jul 2024 17:15:11 +0530</pubDate>
+      <guid>//localhost:1313/resources/training/</guid>
+      <description>Inculcating a culture of learning and evidence-based action by proactively engaging, collaborating with and building capacities through webinars, collaborative workshops and other training programmes, is a very important aspect of our work.</description>
     </item>
     <item>
       <title>Diary</title>

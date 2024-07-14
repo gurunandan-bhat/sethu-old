@@ -2,8 +2,10 @@
 {{ $colSize := 3 }}
 {{ $upcoming := site.Data.upcoming.upcoming }}
 <div class="row">
-  <div class="col-lg">
-    <h1 class="training-hdr pb-4">Upcoming Training</h1>
+  <div class="col-lg px-4">
+    <div class="hdr-navigate hdr-upcoming-training d-flex align-items-end">
+      <h2>Upcoming Training</h2>
+    </div>
     <div class="row">
       {{ range seq 0 (sub $showItems 1) }}
         {{ with index $upcoming . }}
@@ -19,8 +21,10 @@
       {{ end }}
     </div>
   </div>
-  <div class="col-lg">
-    <h1 class="graduate-hdr pb-4">Recently Completed</h1>
+  <div class="col-lg px-4">
+    <div class="hdr-navigate hdr-completed-training d-flex align-items-end">
+      <h2>Recently Completed</h2>
+    </div>
     <div class="row">
       {{ range seq 0 (sub $showItems 1) }}
         {{ with index $upcoming . }}

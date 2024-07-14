@@ -65,6 +65,12 @@
     <loc>//localhost:1313/about/trustees/</loc>
     <lastmod>2024-07-08T21:45:58+05:30</lastmod>
   </url><url>
+    <loc>//localhost:1313/resources/</loc>
+    <lastmod>2024-07-12T17:15:11+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/resources/training/</loc>
+    <lastmod>2024-07-12T17:15:11+05:30</lastmod>
+  </url><url>
     <loc>//localhost:1313/careers/</loc>
     <lastmod>2024-07-09T09:19:53+05:30</lastmod>
   </url><url>
@@ -84,9 +90,6 @@
     <lastmod>2024-06-06T20:00:13+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/resources/research/</loc>
-    <lastmod>2024-06-06T13:50:34+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/resources/</loc>
     <lastmod>2024-06-06T13:50:34+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/resources/advocacy/</loc>
