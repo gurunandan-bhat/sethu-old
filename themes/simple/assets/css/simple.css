@@ -93,6 +93,7 @@ h6.calendar-hdr {
   padding-left: 50px;
   background-image: url("/img/calendar.png");
   background-repeat: no-repeat;
+  color: #c71e1e;
 }
 p.lead {
   font-family: "Lora", serif;
@@ -131,6 +132,14 @@ a {
   outline: none;
   text-decoration: none;
   color: red;
+}
+
+@media only screen and (min-width: 992px) {
+  .with-separator {
+    background-image: url("/img/one-pixel-red.png");
+    background-position-x: center;
+    background-repeat: repeat-y;
+  }
 }
 
 :focus {

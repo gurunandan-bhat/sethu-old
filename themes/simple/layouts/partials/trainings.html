@@ -1,7 +1,7 @@
 {{ $showItems := 2 }}
 {{ $colSize := 3 }}
 {{ $upcoming := site.Data.upcoming.upcoming }}
-<div class="row">
+<div class="row with-separator">
   <div class="col-lg px-4">
     <div class="hdr-navigate hdr-upcoming-training d-flex align-items-end">
       <h2>Upcoming Training</h2>
@@ -10,7 +10,7 @@
       {{ range seq 0 (sub $showItems 1) }}
         {{ with index $upcoming . }}
           <div class="col-lg">
-            <h4>{{- .title }}</h4>
+            <h5>{{- .title }}</h5>
             <h6 class="calendar-hdr pb-2">
               {{- .type }}<br />{{ .startDate -}} &ndash;
               {{- .endDate }}
@@ -29,7 +29,7 @@
       {{ range seq 0 (sub $showItems 1) }}
         {{ with index $upcoming . }}
           <div class="col-lg">
-            <h4>{{- .title }}</h4>
+            <h5>{{- .title }}</h5>
             <h6 class="calendar-hdr pb-2">
               {{- .type }}<br />{{ .startDate -}} &ndash;
               {{- .endDate }}

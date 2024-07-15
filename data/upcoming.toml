@@ -1,23 +1,23 @@
 [[upcoming]]
-startDate = "Jul. 10 2024"
+startDate = "Jul. 10"
 endDate = "Jul. 15 2024"
 title = "A Training Title"
 type = "Hands-On"
 desc = "Suspendisse viverra dui ac velit feugiat, aliquam porta purus porttitor. Nulla varius sed est et faucibus. In interdum gravida ex."
 [[upcoming]]
-startDate = "Aug. 03 2024"
+startDate = "Aug. 03"
 endDate = "Aug. 09 2024"
 title = "Another Training"
 type = "Lectures + Lab"
 desc = "Nunc auctor lacus non elit fermentum, sed condimentum dolor elementum. Quisque purus mi, tempus et dictum nec, dictum nec ex. Nulla eget enim."
 [[upcoming]]
-startDate = "Jun. 03 2024"
+startDate = "Jun. 03"
 endDate = "Jun. 09 2024"
 title = "This Webinar"
 type = "Online Webinar"
 desc = "Nunc auctor lacus non elit fermentum, sed condimentum dolor elementum. Quisque purus mi, tempus et dictum nec, dictum nec ex."
 [[upcoming]]
-startDate = "Jun. 03 2024"
+startDate = "Jun. 03"
 endDate = "Jun. 09 2024"
 title = "Another Webinar"
 type = "Online Webinar"
