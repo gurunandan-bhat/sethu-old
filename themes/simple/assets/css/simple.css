@@ -70,10 +70,17 @@ span.navigators {
 
 .hdr-upcoming-training {
   background-image: url("/img/icon-upcoming-training.png");
+  background-position: left;
 }
 
 .hdr-completed-training {
   background-image: url("/img/icon-completed-training.png");
+  background-position: left;
+}
+
+.hdr-upcoming-training h2,
+.hdr-completed-training h2 {
+  padding-left: 72px;
 }
 
 span.impact-hdr {
