@@ -134,11 +134,19 @@ a {
   color: red;
 }
 
-@media only screen and (min-width: 992px) {
-  .with-separator {
+@media only screen and (min-width: 768px) {
+  .with-y-separator {
     background-image: url("/img/one-pixel-red.png");
     background-position-x: center;
     background-repeat: repeat-y;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .with-x-separator {
+    background-image: url("/img/one-pixel-red.png");
+    background-position: bottom;
+    background-repeat: repeat-x;
   }
 }
 

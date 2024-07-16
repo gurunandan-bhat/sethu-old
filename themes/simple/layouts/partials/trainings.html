@@ -1,8 +1,8 @@
 {{ $showItems := 2 }}
 {{ $colSize := 3 }}
 {{ $upcoming := site.Data.upcoming.upcoming }}
-<div class="row with-separator">
-  <div class="col-lg px-4">
+<div class="row with-y-separator">
+  <div class="col-md px-4 py-2 with-x-separator">
     <div class="hdr-navigate hdr-upcoming-training d-flex align-items-end">
       <h2>Upcoming Training</h2>
     </div>
@@ -21,7 +21,7 @@
       {{ end }}
     </div>
   </div>
-  <div class="col-lg px-4">
+  <div class="col-md px-4 py-2">
     <div class="hdr-navigate hdr-completed-training d-flex align-items-end">
       <h2>Recently Completed</h2>
     </div>
