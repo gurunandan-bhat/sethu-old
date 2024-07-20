@@ -83,12 +83,25 @@ span.navigators {
   padding-left: 72px;
 }
 
-span.impact-hdr {
-  padding-left: 50px;
-  background-image: url("/img/quote-left.png");
-  background-repeat: no-repeat;
+@media only screen and (min-width: 576px) {
+  span.impact-hdr {
+    padding-left: 50px;
+    background-image: url("/img/quote-left.png");
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-position-y: center;
+  }
 }
 
+@media only screen and (max-width: 576px) {
+  span.impact-hdr {
+    padding-left: 25px;
+    background-image: url("/img/quote-left-small.png");
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-position-y: center;
+  }
+}
 h6.calendar-hdr {
   padding-left: 50px;
   background-image: url("/img/calendar.png");
